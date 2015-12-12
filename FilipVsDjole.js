@@ -1,5 +1,5 @@
 Filip VS Djole
 
 O| X |O
- | X |
- | X |X
+O| X |X
+O| O |X
