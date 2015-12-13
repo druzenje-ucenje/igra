@@ -1,6 +1,6 @@
 X |  |O
  O| O|X
-X |  |x
+X | O|x
 
 pat pozicija :)
 good game!
