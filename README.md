@@ -1,7 +1,7 @@
 # igra
 Igra koju cemo igrati i usput utvrditit neke komande
 
-X| |
+X|O|
 O|O|X
 X| |
 
