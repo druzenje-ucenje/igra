@@ -3,3 +3,4 @@ O|O|x
 O| |x
 
 Ema pobedila... pomocu (ne tako) tamne strane :)
+Proba: git reset --soft HEAD^
